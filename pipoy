@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Rumah Persalinan Pipoy</title>
+  <link rel="stylesheet" href="style.css">
+  <!-- Font Awesome untuk ikon medis -->
+  <script src="https://kit.fontawesome.com/2d5d36e6a9.js" crossorigin="anonymous"></script>
+</head>
+<body>
+  <!-- Hero Section -->
+  <header class="hero">
+    <div class="overlay">
+      <h1>Rumah Persalinan Pipoy</h1>
+      <p>Klinik persalinan aman, nyaman, dan penuh kasih untuk ibu dan bayi.</p>
+      <a href="#kontak" class="btn">Reservasi Sekarang</a>
+    </div>
+  </header>
+
+  <!-- Tentang Kami -->
+  <section class="about">
+    <h2><i class="fas fa-clinic-medical"></i> Tentang Kami</h2>
+    <p>Kami hadir untuk mendampingi ibu dari masa kehamilan hingga persalinan. 
+       Didukung tenaga medis berpengalaman, fasilitas modern, dan layanan 24 jam.</p>
+  </section>
+
+  <!-- Layanan -->
+  <section class="services">
+    <h2><i class="fas fa-stethoscope"></i> Layanan Kami</h2>
+    <div class="grid">
+      <div class="card"><i class="fas fa-baby"></i><h3>Persalinan Normal</h3></div>
+      <div class="card"><i class="fas fa-procedures"></i><h3>Persalinan Caesar</h3></div>
+      <div class="card"><i class="fas fa-heartbeat"></i><h3>Pemeriksaan Kehamilan</h3></div>
+      <div class="card"><i class="fas fa-user-nurse"></i><h3>Konsultasi Kandungan</h3></div>
+      <div class="card"><i class="fas fa-x-ray"></i><h3>USG & Laboratorium</h3></div>
+      <div class="card"><i class="fas fa-baby-carriage"></i><h3>Perawatan Ibu & Bayi</h3></div>
+    </div>
+  </section>
+
+  <!-- Testimoni -->
+  <section class="testimoni">
+    <h2><i class="fas fa-smile"></i> Testimoni Pasien</h2>
+    <blockquote>"Saya merasa sangat aman melahirkan di Rumah Persalinan Pipoy. 
+      Dokternya sabar dan fasilitasnya lengkap." – Ibu Dina</blockquote>
+  </section>
+
+  <!-- Kontak -->
+  <section id="kontak" class="contact">
+    <h2><i class="fas fa-phone-alt"></i> Kontak & Lokasi</h2>
+    <p>Alamat: Jl. Sehat No.10, Lebak, Banten</p>
+    <p>Telepon: <a href="tel:08123456789">0812-3456-789</a></p>
+    <p>WhatsApp: <a href="https://wa.me/628123456789">Chat Sekarang</a></p>
+    <iframe src="https://maps.google.com/maps?q=lebak&t=&z=13&ie=UTF8&iwloc=&output=embed" 
+            width="100%" height="250" style="border:0;" allowfullscreen></iframe>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Rumah Persalinan Pipoy. Semua Hak Dilindungi.</p>
+  </footer>
+</body>
+</html>
